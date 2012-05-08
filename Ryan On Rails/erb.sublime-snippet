@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<%= ${1} %>]]></content>
+  <tabTrigger>erb</tabTrigger>
+  <scope>source.ruby</scope>
+  <description><%= %></description>
+</snippet>
